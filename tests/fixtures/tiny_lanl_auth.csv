@@ -1,0 +1,11 @@
+timestamp,user,src_host,dst_host,auth_result,auth_type,logon_type,auth_orientation,label
+0,U1,unknown,C1,Success,user_computer_auth,unknown,user_to_computer,normal
+1,U1,unknown,C1,Success,user_computer_auth,unknown,user_to_computer,normal
+2,U2,unknown,C1,Success,user_computer_auth,unknown,user_to_computer,normal
+3,U3,unknown,C2,Success,user_computer_auth,unknown,user_to_computer,normal
+4,U3,unknown,C2,Success,user_computer_auth,unknown,user_to_computer,normal
+10,U1,unknown,C2,Success,user_computer_auth,unknown,user_to_computer,normal
+11,U4,unknown,C3,Success,user_computer_auth,unknown,user_to_computer,normal
+12,U4,unknown,C3,Success,user_computer_auth,unknown,user_to_computer,normal
+13,U5,unknown,C3,Success,user_computer_auth,unknown,user_to_computer,normal
+14,U5,unknown,C4,Success,user_computer_auth,unknown,user_to_computer,normal

@@ -1,0 +1,98 @@
+{
+  "lanl": {
+    "raw_file": "lanl-auth-dataset-1-00.bz2",
+    "raw_rows": 67054840,
+    "invalid_rows": 0,
+    "min_timestamp": 1,
+    "max_timestamp": 2419200,
+    "raw_triples_sha256": "3cc509a538ae4cbc8cf4e1409044c4336df429db8398faae3ae1d44f3a1f0f7b",
+    "raw_file_sha256": "c8e5efe0b33e80eb2d17f5414255fc4b78be600f8df5040084018dbb5abe25e8",
+    "prepared_rows": 67054840,
+    "prepared_triples_sha256": "3cc509a538ae4cbc8cf4e1409044c4336df429db8398faae3ae1d44f3a1f0f7b",
+    "prepared_file_sha256": "a05ecbe7d00dd6401d15d0d50ff6b51e00e255b5cb2b51be744ad9a8fc1df21d"
+  },
+  "cicids2017": {
+    "raw_file": "GeneratedLabelledFlows.zip",
+    "raw_file_sha256": "7bdbef286f8893f31c6db12105fa097fa5c2dcc6733179037a08129d150ea27a",
+    "files": [
+      {
+        "file": "Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv",
+        "csv_records": 225745,
+        "rows_missing_required_fields": 0,
+        "blank_records": 0,
+        "field_count_mismatches": 0,
+        "prepared_rows": 225745,
+        "raw_minus_prepared": 0
+      },
+      {
+        "file": "Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv",
+        "csv_records": 286467,
+        "rows_missing_required_fields": 0,
+        "blank_records": 0,
+        "field_count_mismatches": 0,
+        "prepared_rows": 286467,
+        "raw_minus_prepared": 0
+      },
+      {
+        "file": "Friday-WorkingHours-Morning.pcap_ISCX.csv",
+        "csv_records": 191033,
+        "rows_missing_required_fields": 0,
+        "blank_records": 0,
+        "field_count_mismatches": 0,
+        "prepared_rows": 191033,
+        "raw_minus_prepared": 0
+      },
+      {
+        "file": "Monday-WorkingHours.pcap_ISCX.csv",
+        "csv_records": 529918,
+        "rows_missing_required_fields": 0,
+        "blank_records": 0,
+        "field_count_mismatches": 0,
+        "prepared_rows": 529918,
+        "raw_minus_prepared": 0
+      },
+      {
+        "file": "Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv",
+        "csv_records": 288602,
+        "rows_missing_required_fields": 0,
+        "blank_records": 0,
+        "field_count_mismatches": 0,
+        "prepared_rows": 288602,
+        "raw_minus_prepared": 0
+      },
+      {
+        "file": "Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv",
+        "csv_records": 458968,
+        "rows_missing_required_fields": 288602,
+        "blank_records": 288602,
+        "field_count_mismatches": 0,
+        "prepared_rows": 170366,
+        "raw_minus_prepared": 288602
+      },
+      {
+        "file": "Tuesday-WorkingHours.pcap_ISCX.csv",
+        "csv_records": 445909,
+        "rows_missing_required_fields": 0,
+        "blank_records": 0,
+        "field_count_mismatches": 0,
+        "prepared_rows": 445909,
+        "raw_minus_prepared": 0
+      },
+      {
+        "file": "Wednesday-workingHours.pcap_ISCX.csv",
+        "csv_records": 692703,
+        "rows_missing_required_fields": 0,
+        "blank_records": 0,
+        "field_count_mismatches": 0,
+        "prepared_rows": 692703,
+        "raw_minus_prepared": 0
+      }
+    ],
+    "prepared_rows": 2830743,
+    "prepared_invalid_timestamps": 0,
+    "prepared_invalid_endpoints": 0,
+    "prepared_file_sha256": "f696415bd58ad0697d794fd10396a3988208e58a311c0406f8d3b2b85bd21ec3",
+    "repreparation_sha256": "f696415bd58ad0697d794fd10396a3988208e58a311c0406f8d3b2b85bd21ec3",
+    "repreparation_byte_identical": true
+  }
+}

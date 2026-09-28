@@ -1,0 +1,87 @@
+{
+  "description": "Exact source snapshot used for the revised paper measurements; two files are relocated in this repository.",
+  "source_snapshot_sha256": "5b4db5524a275a0077c4ace9f3e58ac807fa751c79071169d25cf2128f2bb247",
+  "hash_recipe": "SHA256 of UTF-8 original-path + NUL + per-file-SHA256 + newline, sorted by original path",
+  "files": [
+    {
+      "path": "requirements.txt",
+      "sha256": "bf7016425c849e33978054bb7c2824cd77ced6436a41b6de2e197d1a5f1e1669",
+      "package_path": "provenance/original_requirements.txt"
+    },
+    {
+      "path": "scripts/flow_window_anomaly_baseline.py",
+      "sha256": "b804a570e0c4e24f13ff79a711f0b499dd046deb8c215e315128990bdc9dbee5",
+      "package_path": "scripts/flow_window_anomaly_baseline.py"
+    },
+    {
+      "path": "scripts/flow_window_stats.py",
+      "sha256": "34dc15051819a61da54a9a0c6710318e1cfeca0673e44a46dd35e158fda9711b",
+      "package_path": "scripts/flow_window_stats.py"
+    },
+    {
+      "path": "scripts/lanl_auth_case_study.py",
+      "sha256": "e8337b1f3a491728d9173df3309431ae194e92c1799b0b5729a059f438179830",
+      "package_path": "scripts/lanl_auth_case_study.py"
+    },
+    {
+      "path": "scripts/lanl_auth_export_sample_graphs.py",
+      "sha256": "c32c55fb50c47ee3f1ea61f3c2f0616fb027fbdb39d2d5ced56e3f14dbd6b9ee",
+      "package_path": "scripts/lanl_auth_export_sample_graphs.py"
+    },
+    {
+      "path": "scripts/lanl_auth_window_anomaly_baseline.py",
+      "sha256": "d4d04a3fd698e04071e5ea7803a6c3f8331744bd49503e3d76682ef48f8afdcb",
+      "package_path": "scripts/lanl_auth_window_anomaly_baseline.py"
+    },
+    {
+      "path": "scripts/lanl_auth_window_stats.py",
+      "sha256": "d9ecda5e8271169364faacc546d07ca88790bb8b43bcbb3c4b085c9636e9f551",
+      "package_path": "scripts/lanl_auth_window_stats.py"
+    },
+    {
+      "path": "scripts/merge_lanl_results.py",
+      "sha256": "63b7d6d9f53721dcfb2452b1265da37494e584242d27563cb584e553bfad98ef",
+      "package_path": "provenance/original_tools/merge_lanl_results.py"
+    },
+    {
+      "path": "scripts/prepare_cicids_labelled_flows.py",
+      "sha256": "9e117d58286f0b92a428c7da6c7d0dc352cbdc894d61873905548f3e6407f665",
+      "package_path": "scripts/prepare_cicids_labelled_flows.py"
+    },
+    {
+      "path": "src/dhgraph/__init__.py",
+      "sha256": "12d42296354c296d96ff288919f075d40d095eecb139db5fdbd7eceddf92822a",
+      "package_path": "src/dhgraph/__init__.py"
+    },
+    {
+      "path": "src/dhgraph/anomaly.py",
+      "sha256": "b9b6bd666a0cbe18a458f0d56a2ac9d715e0b83d1db2a64f608b76fbb5929c27",
+      "package_path": "src/dhgraph/anomaly.py"
+    },
+    {
+      "path": "src/dhgraph/export.py",
+      "sha256": "359d0e44210ad8a9465ba0246f6e9f5760a68f063b24d61ee7c4ce3a5d998ce3",
+      "package_path": "src/dhgraph/export.py"
+    },
+    {
+      "path": "src/dhgraph/flow_stats.py",
+      "sha256": "83e6f8454a1f286dc2834e952357e8851a3a0896479d4edf5d30610e22726da5",
+      "package_path": "src/dhgraph/flow_stats.py"
+    },
+    {
+      "path": "src/dhgraph/graph_stats.py",
+      "sha256": "0a4fb838e3e15b1d45acaaf487a45b270557e6c8faf35dd33aa31c4f54d100ba",
+      "package_path": "src/dhgraph/graph_stats.py"
+    },
+    {
+      "path": "src/dhgraph/io.py",
+      "sha256": "f5a1a650545bc5e01942428028f7e99c7b7d9643be1520fcc1f7d327f6ba237d",
+      "package_path": "src/dhgraph/io.py"
+    },
+    {
+      "path": "src/dhgraph/windowing.py",
+      "sha256": "de59cce654a859ce4e066a75878894132f36d434473ef817775e94597896ff15",
+      "package_path": "src/dhgraph/windowing.py"
+    }
+  ]
+}

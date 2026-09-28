@@ -1,0 +1,16 @@
+{
+  "windows": 673,
+  "flagged": 34,
+  "top_window": 672,
+  "params": {
+    "bootstrap": false,
+    "contamination": 0.05,
+    "max_features": 1.0,
+    "max_samples": "auto",
+    "n_estimators": 200,
+    "n_jobs": -1,
+    "random_state": 42,
+    "verbose": 0,
+    "warm_start": false
+  }
+}

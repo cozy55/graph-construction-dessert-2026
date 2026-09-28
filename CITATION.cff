@@ -1,0 +1,19 @@
+cff-version: "1.2.0"
+message: "If you use this software, cite this version and the accompanying DESSERT 2026 paper. Publication identifiers will be added when available."
+type: software
+title: "DESSERT 2026: Dynamic Heterogeneous Graph Construction"
+version: "1.0.0"
+authors:
+  - family-names: Martsenkov
+    given-names: Oleksandr
+    affiliation: "Khmelnytskyi National University"
+  - family-names: Savenko
+    given-names: Oleg
+    affiliation: "Khmelnytskyi National University"
+abstract: "Research implementation for typed, windowed graph construction from LANL authentication associations and CICIDS2017 flows, including reproducibility records and structural anomaly ranking."
+keywords:
+  - "temporal graphs"
+  - "heterogeneous graphs"
+  - "cybersecurity telemetry"
+  - "reproducibility"
+# Add repository-code, license, date-released and DOI after publication.

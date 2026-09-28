@@ -1,0 +1,34 @@
+{
+  "package_version": "1.0.0",
+  "validation_date": "2026-09-28",
+  "python": "3.11.6",
+  "platform": "macOS-26.7-arm64-arm-64bit",
+  "unit_and_integration_tests": {
+    "passed": 25,
+    "failed": 0,
+    "command": "python -m pytest -q"
+  },
+  "original_paper_source_files_verified": 16,
+  "paper_source_sha256": "5b4db5524a275a0077c4ace9f3e58ac807fa751c79071169d25cf2128f2bb247",
+  "numerical_tables_match_revised_paper": true,
+  "wheel_build": "passed; pure Python wheel, library only",
+  "synthetic_five_configuration_runner": "passed",
+  "full_dataset_benchmark_note": "The 15 recorded full-data runs were completed for the paper revision; they were not repeated during packaging.",
+  "remote_ci": "configured; not yet run on a hosting provider",
+  "local_path_and_credential_pattern_scan": "passed",
+  "publication": {
+    "repository_url": null,
+    "license": null,
+    "published": false
+  },
+  "extracted_archive_tests": {
+    "passed": 25,
+    "failed": 0
+  },
+  "extracted_archive_integrity": "passed",
+  "git_upload_dry_run": {
+    "included_files": 58,
+    "unexpected_files": 0
+  },
+  "built_wheel_import_check": "passed"
+}
